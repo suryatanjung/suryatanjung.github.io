@@ -1,2 +1,2 @@
 # cv
-suryatanjung.github.io
+https://suryatanjung.github.io
